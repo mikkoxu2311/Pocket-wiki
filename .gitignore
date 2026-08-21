@@ -1,0 +1,11 @@
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Raw personal/licensed materials are local by default. Keep the instruction file.
+0.0 Inbox/*
+!0.0 Inbox/README.md
+
+# Internal build and QA documents: keep locally, do not publish with the free sample.
+Lenny's Podcast LLM Wiki｜完整构建规则与交接手册.md
+试点质量报告.md

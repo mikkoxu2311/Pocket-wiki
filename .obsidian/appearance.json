@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Baseline",
+  "enabledCssSnippets": [
+    "baseline-optimized.minimal.active",
+    "baseline-translucent-window.active"
+  ],
+  "translucency": true
+}
